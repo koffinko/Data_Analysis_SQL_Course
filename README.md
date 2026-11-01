@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is **my first SQL project** and one of my first steps into data analytics. I wanted to move beyond learning SQL syntax and use it to answer real questions with a real dataset. Exploring the Data Analyst job market felt like a natural place to start: I could practice writing queries while discovering which jobs pay the most, which skills employers look for, and which skills might be worth learning next.
+This is my SQL project, where I wanted to move beyond learning SQL syntax and use it to answer real questions with a real dataset. Exploring the Data Analyst job market felt like a natural place to start: I could practice writing queries while discovering which jobs pay the most, which skills employers look for, and which skills might be worth learning next.
 
 The project examines **2023 Data Analyst job postings**, focusing on remote opportunities, in-demand skills, and the relationship between skills and salaries.
 
