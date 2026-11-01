@@ -108,7 +108,7 @@ Across these ten postings, **SQL appears in 8**, **Python in 7**, and **Tableau 
 
 ![Most frequently requested skills among top-paying Data Analyst jobs in 2023](project_sql/assets/2_top_paying_roles_skills.png)
 
-*Figure 2. Counts of skills listed in the ten highest-paying postings.*
+*Figure 2. Counts of skills listed in the ten highest-paying postings*
 
 | Skill | Number of top-10 postings |
 |:---|---:|
@@ -205,7 +205,7 @@ The SQL query returns the **top 25 skills** by average salary. Here are the top 
 | Pandas | $151,821 |
 | Elasticsearch | $145,000 |
 
-*Table 2. Top ten skills by average listed salary among remote Data Analyst jobs with salary data.*
+*Table 2. Top ten skills by average listed salary among remote Data Analyst jobs with salary data*
 
 **My takeaway:** Specialized big-data, cloud, programming, and machine-learning tools are associated with some of the largest average salaries. However, average pay is not the same as a guaranteed salary premium: uncommon skills may have fewer postings behind their averages.
 
@@ -246,7 +246,7 @@ LIMIT 25;
 
 #### Results
 
-This approach identify the following leading skills when sorted by average salary, subject to the minimum-demand threshold:
+This approach identifies the following leading skills when sorted by average salary, subject to the minimum-demand threshold:
 
 | Skill ID | Skill | Demand count | Average yearly salary (USD) |
 |---:|:---|---:|---:|
