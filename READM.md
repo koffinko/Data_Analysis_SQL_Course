@@ -63,9 +63,9 @@ LIMIT 10;
 
 The ten highest-paying remote Data Analyst postings in the 2023 dataset range from **$184,000 to $650,000 per year**. The employers include companies such as SmartAsset, Meta, and AT&T, and the titles cover both analyst and senior analytics leadership positions.
 
-![Top 10 highest-paying remote Data Analyst roles in 2023](https://raw.githubusercontent.com/lukebarousse/SQL_Project_Data_Job_Analysis/main/assets/1_top_paying_roles.png)
+![Top 10 highest-paying remote Data Analyst roles in 2023](project_sql/assets/1_top_paying_roles.png)
 
-*Figure 1. Average yearly salaries for the ten highest-paying remote Data Analyst postings in 2023.
+*Figure 1. Average yearly salaries for the ten highest-paying remote Data Analyst postings in 2023.*
 
 **My takeaway:** Remote Data Analyst roles can have a wide salary range. Job title and level matter, so the highest listed salaries should not be treated as typical salaries for every Data Analyst.
 
@@ -106,9 +106,9 @@ ORDER BY salary_year_avg DESC
 
 Across these ten postings, **SQL appears in 8**, **Python in 7**, and **Tableau in 6**. This gives a clear indication of the importance of database querying, programming, and data visualization in higher-paying analytical roles.
 
-![Most frequently requested skills among top-paying Data Analyst jobs in 2023](https://raw.githubusercontent.com/lukebarousse/SQL_Project_Data_Job_Analysis/main/assets/2_top_paying_roles_skills.png)
+![Most frequently requested skills among top-paying Data Analyst jobs in 2023](project_sql/assets/2_top_paying_roles_skills.png)
 
-*Figure 2. Counts of skills listed in the ten highest-paying postings.
+*Figure 2. Counts of skills listed in the ten highest-paying postings.*
 
 | Skill | Number of top-10 postings |
 |:---|---:|
